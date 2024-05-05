@@ -18,8 +18,9 @@
 }
 
 .gpt3__navbar-links_logo img {
-    width: 62.56px;
-    height: 4rem;
+    width: 5rem;
+    height: 5rem;
+    clip-path: polygon(51% 19%, 77% 34%, 77% 65%, 49% 80%, 23% 65%, 23% 34%);
 }
 
 .gpt3__navbar-links_container {
