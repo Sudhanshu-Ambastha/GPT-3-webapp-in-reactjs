@@ -4,7 +4,7 @@
 This is a ReactJS web application showcasing the capabilities of OpenAI's GPT-3 (Generative Pre-trained Transformer 3) model. The project includes various sections such as header, features, blog, and more, each demonstrating different functionalities and applications of GPT-3.
 
 ## Preview
-
+<picture><img src = "React Webapp.gif" width = 100%></picture>
 
 ## Features
 - **Header**: Introduces the application and prompts users to get started by providing their email address.
