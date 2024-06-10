@@ -18,9 +18,18 @@ This is a ReactJS web application showcasing the capabilities of OpenAI's GPT-3 
 To run the project locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Navigate to the project directory.
-3. Install dependencies using `npm install`.
-4. Start the development server using `npm start`.
-5. Open your browser and navigate to `http://localhost:3000` to view the application.
+   ```
+   cd landingpage
+   ```
+4. Install dependencies using.
+   ```
+   npm install
+   ```
+5. Start the development server using.
+   ```
+   npm start
+   ```
+7. Open your browser and navigate to `http://localhost:3000` to view the application.
 
 ## Technologies Used
 - ReactJS
